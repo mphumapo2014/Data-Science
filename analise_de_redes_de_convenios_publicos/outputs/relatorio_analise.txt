@@ -1,0 +1,43 @@
+
+    ====================================================
+    RELATÓRIO DE ANÁLISE - REDES DE CONVÊNIOS PÚBLICOS
+    ====================================================
+    Data da análise: 15/01/2026 02:12
+    Total de conexões analisadas: 598,040
+    
+    PRINCIPAIS INSIGHTS:
+    ====================
+    
+    1. ÓRGÃO MAIS ATIVO:
+       • Nome: Ministério das Cidades - Unidades com vínculo direto
+       • Valor total: R$ 119,727,453,085.15
+       • Número de parceiros: 5,671
+    
+    2. TOP 3 ÓRGÃOS POR VALOR:
+       1. Ministério das Cidades - Unidades com vínculo direto: R$ 119,727,453,085.15
+       2. Ministério da Saúde - Unidades com vínculo direto: R$ 103,577,222,524.71
+       3. Ministério da Integração e do Desenvolvimento Regional - Uni: R$ 59,887,416,510.39
+    
+    3. DISTRIBUIÇÃO GEOGRÁFICA:
+       • UFs com mais convênios: ['SP', 'MG', 'RS']
+       • Total de UFs atendidas: 29
+    
+    4. ESTATÍSTICAS GERAIS:
+       • Valor médio por convênio: R$ 1,075,900.67
+       • Mediana do valor: R$ 160,000.00
+       • Maior convênio individual: R$ 14,043,098,979.46
+       • Órgãos analisados: 50
+    
+    5. CONCENTRAÇÃO DE RECURSOS:
+       • Top 10 órgãos concentram: 78.2% do valor total
+       • Top 5 órgãos concentram: 58.1% do valor total
+    
+    RECOMENDAÇÕES PARA ANÁLISE FUTURA:
+    ==================================
+    1. Investigar os órgãos mais centrais para entender padrões de atuação
+    2. Analisar clusters/communities na rede para identificar grupos de colaboração
+    3. Cruzar com dados socioeconômicos para verificar correlações
+    4. Estudo longitudinal: como a rede evolui ao longo do tempo
+    
+    ====================================================
+    
