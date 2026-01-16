@@ -1,0 +1,218 @@
+{
+  "geral": {
+    "registros": 20984227,
+    "municipios": 5570,
+    "beneficiarios_unicos": 20967506,
+    "valor_total": 7976930438.0,
+    "valor_medio": 380.13935123747945,
+    "valor_mediano": 400.0,
+    "valor_desvio_padrao": 66.9674189701079,
+    "valor_minimo": 65.0,
+    "valor_maximo": 2521.0
+  },
+  "por_uf": {
+    "AC": {
+      "valor_total": 50874062.0,
+      "valor_medio": 395.52,
+      "valor_desvio": 97.82,
+      "num_parcelas": 128625,
+      "beneficiarios": 128539
+    },
+    "AL": {
+      "valor_total": 204969457.0,
+      "valor_medio": 380.08,
+      "valor_desvio": 68.67,
+      "num_parcelas": 539273,
+      "beneficiarios": 538662
+    },
+    "AM": {
+      "valor_total": 236741788.0,
+      "valor_medio": 391.72,
+      "valor_desvio": 78.4,
+      "num_parcelas": 604367,
+      "beneficiarios": 603886
+    },
+    "AP": {
+      "valor_total": 46501417.0,
+      "valor_medio": 382.56,
+      "valor_desvio": 75.33,
+      "num_parcelas": 121554,
+      "beneficiarios": 121500
+    },
+    "BA": {
+      "valor_total": 970246554.0,
+      "valor_medio": 381.04,
+      "valor_desvio": 64.49,
+      "num_parcelas": 2546296,
+      "beneficiarios": 2544267
+    },
+    "CE": {
+      "valor_total": 564125224.0,
+      "valor_medio": 378.64,
+      "valor_desvio": 65.46,
+      "num_parcelas": 1489866,
+      "beneficiarios": 1488520
+    },
+    "DF": {
+      "valor_total": 63418630.0,
+      "valor_medio": 382.06,
+      "valor_desvio": 65.29,
+      "num_parcelas": 165990,
+      "beneficiarios": 165840
+    },
+    "ES": {
+      "valor_total": 115576504.0,
+      "valor_medio": 379.55,
+      "valor_desvio": 63.96,
+      "num_parcelas": 304507,
+      "beneficiarios": 304337
+    },
+    "GO": {
+      "valor_total": 186516500.0,
+      "valor_medio": 379.39,
+      "valor_desvio": 58.95,
+      "num_parcelas": 491624,
+      "beneficiarios": 491077
+    },
+    "MA": {
+      "valor_total": 444479116.0,
+      "valor_medio": 387.82,
+      "valor_desvio": 71.96,
+      "num_parcelas": 1146102,
+      "beneficiarios": 1144912
+    },
+    "MG": {
+      "valor_total": 617540127.0,
+      "valor_medio": 382.28,
+      "valor_desvio": 62.65,
+      "num_parcelas": 1615422,
+      "beneficiarios": 1613986
+    },
+    "MS": {
+      "valor_total": 78290592.0,
+      "valor_medio": 379.85,
+      "valor_desvio": 68.66,
+      "num_parcelas": 206108,
+      "beneficiarios": 206040
+    },
+    "MT": {
+      "valor_total": 97280111.0,
+      "valor_medio": 383.94,
+      "valor_desvio": 67.05,
+      "num_parcelas": 253371,
+      "beneficiarios": 253045
+    },
+    "PA": {
+      "valor_total": 489385781.0,
+      "valor_medio": 382.96,
+      "valor_desvio": 71.01,
+      "num_parcelas": 1277918,
+      "beneficiarios": 1276939
+    },
+    "PB": {
+      "valor_total": 260328945.0,
+      "valor_medio": 378.39,
+      "valor_desvio": 69.19,
+      "num_parcelas": 687988,
+      "beneficiarios": 687331
+    },
+    "PE": {
+      "valor_total": 639572682.0,
+      "valor_medio": 378.35,
+      "valor_desvio": 66.28,
+      "num_parcelas": 1690408,
+      "beneficiarios": 1689372
+    },
+    "PI": {
+      "valor_total": 237974100.0,
+      "valor_medio": 385.45,
+      "valor_desvio": 65.62,
+      "num_parcelas": 617388,
+      "beneficiarios": 616685
+    },
+    "PR": {
+      "valor_total": 222051539.0,
+      "valor_medio": 375.08,
+      "valor_desvio": 65.21,
+      "num_parcelas": 592011,
+      "beneficiarios": 591592
+    },
+    "RJ": {
+      "valor_total": 695245759.0,
+      "valor_medio": 375.51,
+      "valor_desvio": 65.54,
+      "num_parcelas": 1851487,
+      "beneficiarios": 1850577
+    },
+    "RN": {
+      "valor_total": 187131109.0,
+      "valor_medio": 368.8,
+      "valor_desvio": 71.66,
+      "num_parcelas": 507402,
+      "beneficiarios": 506858
+    },
+    "RO": {
+      "valor_total": 46446602.0,
+      "valor_medio": 381.02,
+      "valor_desvio": 57.22,
+      "num_parcelas": 121902,
+      "beneficiarios": 121827
+    },
+    "RR": {
+      "valor_total": 26261989.0,
+      "valor_medio": 402.65,
+      "valor_desvio": 89.18,
+      "num_parcelas": 65223,
+      "beneficiarios": 65031
+    },
+    "RS": {
+      "valor_total": 226242128.0,
+      "valor_medio": 371.36,
+      "valor_desvio": 68.83,
+      "num_parcelas": 609229,
+      "beneficiarios": 608765
+    },
+    "SC": {
+      "valor_total": 83302626.0,
+      "valor_medio": 379.36,
+      "valor_desvio": 64.83,
+      "num_parcelas": 219587,
+      "beneficiarios": 219336
+    },
+    "SE": {
+      "valor_total": 149756055.0,
+      "valor_medio": 373.86,
+      "valor_desvio": 66.18,
+      "num_parcelas": 400566,
+      "beneficiarios": 400419
+    },
+    "SP": {
+      "valor_total": 977813206.0,
+      "valor_medio": 379.58,
+      "valor_desvio": 63.33,
+      "num_parcelas": 2576049,
+      "beneficiarios": 2574319
+    },
+    "TO": {
+      "valor_total": 58857835.0,
+      "valor_medio": 382.28,
+      "valor_desvio": 69.67,
+      "num_parcelas": 153964,
+      "beneficiarios": 153844
+    }
+  },
+  "percentis": {
+    "p10": 240.0,
+    "p25": 400.0,
+    "p50": 400.0,
+    "p75": 400.0,
+    "p90": 400.0,
+    "p95": 421.0,
+    "p99": 540.0
+  },
+  "identificacao": {
+    "com_cpf": 18146477,
+    "com_cpf_percent": 86.47674751135698,
+    "apenas_nis": 2837750
+  }
+}
